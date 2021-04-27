@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "497395821062",
+    "project_id": "myapp-74368",
+    "storage_bucket": "myapp-74368.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497395821062:android:17d41bcf456573ed30f187",
+        "android_client_info": {
+          "package_name": "com.byocao.shop_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497395821062-919e1hr2grj829rlgsuti8qnagcq72ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmkqUIB_kJkCnOqhtfpLI1HYJLfUD0vWM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497395821062-919e1hr2grj829rlgsuti8qnagcq72ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
